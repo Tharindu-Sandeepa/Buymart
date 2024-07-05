@@ -1,0 +1,15 @@
+Customer :
+UN : amal
+PW : Amal@1234
+
+Seller:
+UN: abcde
+PW: Abcde@1234
+
+Support team:
+UN: bimal
+PW: 1234
+
+Admin:
+UN: ss@gmail.com
+PW: ss
