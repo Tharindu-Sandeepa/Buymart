@@ -8,10 +8,7 @@ BuyMart is an E-commerce website created as part of my 1st-year 2nd-semester IWT
 - [Features](#features)
 - [Screenshots](#screenshots)
 - [Technologies Used](#technologies-used)
-- [Setup](#setup)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Overview
 
@@ -21,17 +18,16 @@ BuyMart is a user-friendly E-commerce platform that allows users to browse and p
 
 - User registration and authentication
 - Product browsing and searching
-- Shopping cart functionality
 - Order management
-- Admin panel for product, order, and user management
+- Admin panel for product, order and user management
 
 ## Screenshots
 
 ### Homepage
-![Homepage](path/to/homepage-screenshot.png)
+<img src="assets/home.png"  />
 
 ### Admin Page
-![Admin Page](path/to/admin-page-screenshot.png)
+<img src="assets/admin.png"  />
 
 ## Technologies Used
 
@@ -39,8 +35,4 @@ BuyMart is a user-friendly E-commerce platform that allows users to browse and p
 - **Backend**: PHP
 - **Database**: SQL
 
-## Setup
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/buymart.git
